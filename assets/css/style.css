@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.linha-vertical{
+  display: inline-block;
+  border-left: 1px solid #000;
+  height: 15px;               
+  margin: 0 10px;             
+  vertical-align: middle;     
+}
